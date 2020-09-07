@@ -1,1 +1,1 @@
-var playlist = {Drexciya, "Wavejumper"};
+var playlist = {Drexciya: "Wavejumper"};
